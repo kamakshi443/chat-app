@@ -1,0 +1,23 @@
+{
+    "conversations": [
+      {
+        "contactId": "1",
+        "contactName": "John Doe",
+        "lastMessage": "Hello",
+        "messages": [
+          { "id": "1", "text": "Hello" },
+          { "id": "2", "text": "How are you?" }
+        ]
+      },
+      {
+        "contactId": "2",
+        "contactName": "Jane Smith",
+        "lastMessage": "Hi",
+        "messages": [
+          { "id": "1", "text": "Hi" },
+          { "id": "2", "text": "Good to see you!" }
+        ]
+      }
+    ]
+  }
+  
